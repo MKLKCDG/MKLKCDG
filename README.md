@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Reach out to me
 
 [<img width="30" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
-[<img width="30" src="https://unpkg.com/simple-icons@v7/icons/tryhackme.svg" align="left" />]<img src="https://tryhackme-badges.s3.amazonaws.com/GrizzlY.png" alt="TryHackMe">
+[<img width="30" src="https://unpkg.com/simple-icons@v7/icons/tryhackme.svg" align="left" />][<img src="https://tryhackme-badges.s3.amazonaws.com/GrizzlY.png" alt="TryHackMe">]
 
 
 
