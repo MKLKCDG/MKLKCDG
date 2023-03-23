@@ -83,9 +83,9 @@ Here are some ideas to get you started:
 <br>
 
 
-[linkedin]: https://www.linkedin.com/in/mehmet-kocadag-49370b205/
+[linkedin]: https://www.linkedin.com/in/mikailkocadag/
 
-[tryhackme]: https://tryhackme.com/p/marksmandantus
+[tryhackme]: https://tryhackme.com/p/GrizzlY
 
 
 
