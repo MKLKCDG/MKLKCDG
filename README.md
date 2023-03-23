@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Cyber Security / Penetration Tester :tophat:
 
 ### Reach out to me
-<img src="https://tryhackme-badges.s3.amazonaws.com/GrizzlY.png" alt="TryHackMe">
+[<script src="https://tryhackme.com/badge/786115"></script>]
 
 [<img width="30" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 
